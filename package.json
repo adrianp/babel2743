@@ -8,6 +8,7 @@
   },
   "author": "Adrian-Tudor Panescu <adrian@panescu.com>",
   "license": "MIT",
+  "repository": "adrianp/babel2743",
   "dependencies": {
     "babel-preset-es2015": "^6.0.15",
     "babel-preset-stage-0": "^6.0.15"
